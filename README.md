@@ -29,15 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<br/>
-<br/>
-<a href="https://github.com/xearta">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xearta&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/xearta">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xearta&show_icons=true&theme=light&line_height=27" alt="Tanner's github stats"/>
-</a>
-
+<hr/>
 
 # 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -47,3 +39,13 @@
 - [What is ‘No-Code’ Development?](https://medium.com/@tannerztownsend/what-is-no-code-development-f45954e3703e?source=rss-dae59a2402db------2)
 - [AlgoExpert — Learning Data Structures](https://medium.com/@tannerztownsend/algoexpert-learning-data-structures-ca6e390281e3?source=rss-dae59a2402db------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+<!-- GITHUB STATS -->
+<hr/>
+<a href="https://github.com/xearta">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xearta&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/xearta">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xearta&show_icons=true&theme=light&line_height=27" alt="Tanner's github stats"/>
+</a>
