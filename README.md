@@ -41,4 +41,9 @@
 
 # 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Organized, Efficient Notes As A Software Engineer](https://medium.com/@tannerztownsend/organized-efficient-notes-as-a-software-engineer-6e887d7d35f6?source=rss-dae59a2402db------2)
+- [Using Notion To Boost Productivity As A Software Engineer](https://medium.com/@tannerztownsend/using-notion-to-boost-productivity-as-a-software-engineer-5fc37782dad5?source=rss-dae59a2402db------2)
+- [EpicReact — Hooks](https://medium.com/@tannerztownsend/epicreact-hooks-fad5c8a22a62?source=rss-dae59a2402db------2)
+- [What is ‘No-Code’ Development?](https://medium.com/@tannerztownsend/what-is-no-code-development-f45954e3703e?source=rss-dae59a2402db------2)
+- [AlgoExpert — Learning Data Structures](https://medium.com/@tannerztownsend/algoexpert-learning-data-structures-ca6e390281e3?source=rss-dae59a2402db------2)
 <!-- BLOG-POST-LIST:END -->
