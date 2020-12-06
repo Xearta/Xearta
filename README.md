@@ -40,14 +40,16 @@
 - [AlgoExpert — Learning Data Structures](https://medium.com/@tannerztownsend/algoexpert-learning-data-structures-ca6e390281e3?source=rss-dae59a2402db------2)
 <!-- BLOG-POST-LIST:END -->
 
-
+<br/>
 <!-- GITHUB STATS -->
 <details>
   <summary>:zap: GitHub Stats</summary>
-<a href="https://github.com/xearta">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xearta&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/xearta">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xearta&show_icons=true&theme=light&line_height=27" alt="Tanner's github stats"/>
-</a>
+  
+<br/>
+  <a href="https://github.com/xearta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xearta&theme=light&hide_langs_below=1" />
+  </a>
+  <a href="https://github.com/xearta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xearta&show_icons=true&theme=light&line_height=27" alt="Tanner's github stats"/>
+  </a>
 </details>
