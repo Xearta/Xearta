@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on improving my GitHub contributions
-- 🌱 I’m currently learning the MERN Stack
+- 🌱 I’m currently learning mobile development through React Native
 - 👯 I’m looking to collaborate with other developers
 - 📫 How to reach me: [@tannerztownsend](https://twitter.com/tannerztownsend)
 - ⚡ Fun fact: I completed an accelerated bootcamp in 2020
