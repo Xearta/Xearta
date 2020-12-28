@@ -36,11 +36,11 @@
 
 # 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial Purgatory](https://medium.com/@tannerztownsend/tutorial-purgatory-5c21d41c5b11?source=rss-dae59a2402db------2)
 - [Get The Most Out of Programming Tutorials](https://medium.com/@tannerztownsend/get-the-most-out-of-programming-tutorials-60298b83dc6a?source=rss-dae59a2402db------2)
 - [React Native: First Steps](https://medium.com/@tannerztownsend/react-native-first-steps-73aa86aaa5dc?source=rss-dae59a2402db------2)
 - [How To Create An Awesome GitHub Profile Readme](https://medium.com/@tannerztownsend/how-to-create-an-awesome-github-profile-readme-b8562809e46f?source=rss-dae59a2402db------2)
 - [Organized, Efficient Notes As A Software Engineer](https://medium.com/@tannerztownsend/organized-efficient-notes-as-a-software-engineer-6e887d7d35f6?source=rss-dae59a2402db------2)
-- [Using Notion To Boost Productivity As A Software Engineer](https://medium.com/@tannerztownsend/using-notion-to-boost-productivity-as-a-software-engineer-5fc37782dad5?source=rss-dae59a2402db------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
