@@ -36,11 +36,11 @@
 
 # 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [More JS Array Methods](https://medium.com/@tannerztownsend/more-js-array-methods-f54852d811f7?source=rss-dae59a2402db------2)
 - [The Basics of Arrays in JavaScript](https://medium.com/@tannerztownsend/the-basics-of-arrays-in-javascript-d04daee9129e?source=rss-dae59a2402db------2)
 - [Tutorial Purgatory](https://medium.com/@tannerztownsend/tutorial-purgatory-5c21d41c5b11?source=rss-dae59a2402db------2)
 - [Get The Most Out of Programming Tutorials](https://medium.com/@tannerztownsend/get-the-most-out-of-programming-tutorials-60298b83dc6a?source=rss-dae59a2402db------2)
 - [React Native: First Steps](https://medium.com/@tannerztownsend/react-native-first-steps-73aa86aaa5dc?source=rss-dae59a2402db------2)
-- [How To Create An Awesome GitHub Profile Readme](https://medium.com/@tannerztownsend/how-to-create-an-awesome-github-profile-readme-b8562809e46f?source=rss-dae59a2402db------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
