@@ -36,11 +36,11 @@
 
 # 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced JS Array Manipulation](https://medium.com/@tannerztownsend/advanced-js-array-manipulation-f44f2b0e3a87?source=rss-dae59a2402db------2)
-- [More JS Array Methods](https://medium.com/@tannerztownsend/more-js-array-methods-f54852d811f7?source=rss-dae59a2402db------2)
-- [The Basics of Arrays in JavaScript](https://medium.com/@tannerztownsend/the-basics-of-arrays-in-javascript-d04daee9129e?source=rss-dae59a2402db------2)
-- [Tutorial Purgatory](https://medium.com/@tannerztownsend/tutorial-purgatory-5c21d41c5b11?source=rss-dae59a2402db------2)
-- [Get The Most Out of Programming Tutorials](https://medium.com/@tannerztownsend/get-the-most-out-of-programming-tutorials-60298b83dc6a?source=rss-dae59a2402db------2)
+- [Advanced JS Array Manipulation](https://tannerztownsend.medium.com/advanced-js-array-manipulation-f44f2b0e3a87?source=rss-dae59a2402db------2)
+- [More JS Array Methods](https://tannerztownsend.medium.com/more-js-array-methods-f54852d811f7?source=rss-dae59a2402db------2)
+- [The Basics of Arrays in JavaScript](https://tannerztownsend.medium.com/the-basics-of-arrays-in-javascript-d04daee9129e?source=rss-dae59a2402db------2)
+- [Tutorial Purgatory](https://tannerztownsend.medium.com/tutorial-purgatory-5c21d41c5b11?source=rss-dae59a2402db------2)
+- [Get The Most Out of Programming Tutorials](https://tannerztownsend.medium.com/get-the-most-out-of-programming-tutorials-60298b83dc6a?source=rss-dae59a2402db------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
